@@ -1,0 +1,15 @@
+{
+  "short_name": "Alex Développement",
+  "name": "Alex Développement",
+  "icons": [
+    {
+      "src": "assets/icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#E84E89",
+  "background_color": "#ffffff"
+}
